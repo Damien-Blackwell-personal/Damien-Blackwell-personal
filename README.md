@@ -14,7 +14,7 @@ I am a UK-based researcher and developer focused on accelerating synthetic biolo
 * **Hardware & CAD:** Fusion 360, 3D Prototyping
 
 ### 📫 Focus Areas
-De-extinction technologies, computational paleogenomics, and biological hardware design.
+De-extinction technologies, computational paleogenomics, and biological design.
 
 <!--
 **Damien-Blackwell-personal/Damien-Blackwell-personal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
